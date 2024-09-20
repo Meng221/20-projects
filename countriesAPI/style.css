@@ -40,5 +40,6 @@ body {
     margin-top: 20px;
 }
 .country:hover {
-    transform: translateY(5px);
+    /* transform: translateY(5px); */
+    transform: scale(105%);
 }
